@@ -1,6 +1,6 @@
 ## React 101 Crash course - All you need to know to start React journey
 
-## [Video Tutorial](https://youtu.be/6lDHSF3Yrgs)
+## [Video Tutorial](https://youtu.be/_uPIAH-BZ_U)
 
 ## [Demo link ](https://bw-react101.netlify.app)
 
